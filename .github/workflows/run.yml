@@ -8,7 +8,7 @@ on:
   schedule:
     - cron: 15 20 * * *
 
-jobs:
+jobs: 
   IBM-Cloud-CF-APP-Restart:
     runs-on: ubuntu-latest
 
